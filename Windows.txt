@@ -1,4 +1,4 @@
 #Windows system installed features###
 echo
 To increase the space
-
+need to monitor the space and find the installed properties in system
